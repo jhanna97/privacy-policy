@@ -1,12 +1,12 @@
-# Joshnahanna's Event Planning Privacy Policy
+# Creative Planning - Event Planning Privacy Policy
 
-**Developer:** Joshnahanna (jhanna97)
+**Company:** Creative Planning
 
 ---
 
 ## Overview
 
-This is a personal event planning application developed by Joshnahanna that integrates with Pinterest to display board inspiration for hens parties and events.
+This is a personal event planning application developed by Creative Planning that integrates with Pinterest to display board inspiration for hens parties and events.
 
 ## Data Collection
 
@@ -29,18 +29,3 @@ This is a personal event planning application developed by Joshnahanna that inte
 - No data persists after you revoke access
 
 ## Changes to This Policy
-
-Joshnahanna may update this privacy policy occasionally. Changes will be posted to this page.
-
-## Contact
-
-**Developer:** Joshnahanna
-**Email:** joshnahanna@outlook.com
-**GitHub:** jhanna97
-
-For questions or concerns regarding this privacy policy or this application, please contact joshnahanna@outlook.com
-
----
-
-**Last Updated:** June 2026
-**Application:** Joshnahanna's Event Planning Dashboard
