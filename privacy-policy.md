@@ -1,4 +1,4 @@
-# Privacy Policy
+# Joshna's Privacy Policy
 
 ## Overview
 This is a personal event planning application that integrates with Pinterest to display board inspiration for hens parties and events.
